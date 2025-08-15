@@ -11,6 +11,7 @@ BOT_TOKEN = "8030116568:AAEqrB9q-T5VU-FPdlL366EUO2VuZJxpDQE"
 # Лимит размера файла в байтах (50 МБ)
 TELEGRAM_FILE_LIMIT = 50 * 1024 * 1024
 
+# комментраий для Артема. моего боса
 # Настройка логирования
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
